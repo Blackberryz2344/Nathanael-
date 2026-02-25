@@ -1,0 +1,7 @@
+{
+  "name": "Roald Idiomas",
+  "description": "Uma IA professora de idiomas interativa que ajuda você a praticar conversação e melhorar sua pronúncia através de lições personalizadas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
